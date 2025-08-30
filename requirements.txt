@@ -1,24 +1,13 @@
-# Core app
-streamlit>=1.30.0
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+nltk
+textblob
+matplotlib
+seaborn
+plotly
+emoji
 
-# Data handling
-pandas>=2.0
-numpy>=1.26
-
-# Machine Learning
-scikit-learn>=1.3
-joblib>=1.3
-
-# NLP
-nltk>=3.9
-
-# Text processing (optional but safe)
-textblob>=0.17
-
-# Plotting/visualization (optional)
-matplotlib>=3.8
-seaborn>=0.12
-
-# For emojis if your app handles them
-emoji>=2.4
 
